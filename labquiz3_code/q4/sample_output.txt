@@ -1,0 +1,9 @@
+Hello, world! test passed
+Elementary tests passed
+Starting comprehensive tests (see details in code)
+Test 1 passed: allocated 4 chunks of 1KB each
+Test 2 passed: dealloc and realloc worked
+Test 3 passed: Buddies United
+Test 4 passed: full allocation worked
+Test 5 passed: Null returned if out of memory
+Test 6 passed: Null returned if contiguous memory not available

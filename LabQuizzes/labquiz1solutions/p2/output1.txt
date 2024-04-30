@@ -1,0 +1,7 @@
+pid=2539917, ppid=2539916, element=10
+pid=2539918, ppid=2539916, element=20
+pid=2539919, ppid=2539916, element=30
+pid=2539920, ppid=2539916, element=40
+pid=2539921, ppid=2539916, element=50
+pid=2539916, sum=150
+Number of children not reaped yet for parent: 0

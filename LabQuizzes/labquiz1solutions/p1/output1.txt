@@ -1,0 +1,5 @@
+pid=2538345, ppid=2538343, sum=30
+pid=2538346, ppid=2538343, sum=6
+pid=2538343, pid_reaped=2538345
+pid=2538343, pid_reaped=2538346
+Number of children not reaped yet: 0
