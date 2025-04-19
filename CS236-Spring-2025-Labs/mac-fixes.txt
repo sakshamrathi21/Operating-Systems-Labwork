@@ -1,0 +1,3 @@
+1. If you receive a "Download resource" error while installing "i386-elf-gcc", then switch to some other network (preferably to personal hotspot).
+2. In case you receive errors related to xcode, then please install the app "xcode" from App Store.
+3. If you are still unable to install "i386-elf-gcc", then run the following command on terminal: "brew install i686-elf-binutils i686-elf-gcc". After this installation is complete, replace "i386" by "i686" in line 32 of the Makefile, and rerun "make clean && make && make qemu" on terminal.
